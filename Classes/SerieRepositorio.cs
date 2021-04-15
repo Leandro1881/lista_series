@@ -15,7 +15,7 @@ namespace Projeto_2.Classes
 
         public void Exclui(int id)
         {
-            lista[id].setExcluir(true);
+            lista[id].SetExcluir(true);
         }
 
         public void Insere(Serie serie)
